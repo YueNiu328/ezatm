@@ -30,7 +30,7 @@ chmod +x setup.sh
 
 ## 📖 How to Use
 
-### Prerequisites for Dongoes
+### Prerequisites for Dingoes
 1. First, ensure you have configured ATM by following the guide at:
    https://github.com/AlayaCare/nabu-cli-client/blob/master/bin/README.md
 
