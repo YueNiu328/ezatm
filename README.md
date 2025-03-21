@@ -6,7 +6,7 @@ Make your terminal life easier than finding cat videos on the internet! 🐱
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/ezatm.git
+git clone git@github.com:YueNiu328/ezatm.git
 cd ezatm
 ```
 
